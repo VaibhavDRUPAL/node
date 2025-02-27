@@ -1,1 +1,2 @@
-
+npm init -y (install package.json file , -y use for take default value)
+npm install express (use express in node js project)
